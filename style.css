@@ -1,0 +1,42 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+#counterBody {
+    margin: auto;
+    height: fit-content;
+    width: fit-content;
+    display: block;
+    border: 4px solid black;
+    border-radius: 10px;
+    align-self: center;
+    background-color: gray;
+}
+
+#counterBar {
+    background-color: rgb(228, 227, 227);
+    padding: 25px;
+    border-bottom: 3px solid black;
+    text-align: center;
+}
+
+button {
+    width: 50px;
+    height: 50px;
+    margin: 30px;
+    border-radius: 25px;
+}
+
+#incrementa {
+    float: inline-start;
+}
+
+#cancela {
+    background-color: red;
+
+}
+
+#decrementa {
+    float: inline-end;
+}
